@@ -1,6 +1,6 @@
 # Python_Dictionary
 simple python dictionary
-### *******must install python 3 in your computer***********
+### must install python 3 in your computer
 # STEPS
 ```
 *1.download both files store then in same folder
